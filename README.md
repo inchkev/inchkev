@@ -1,4 +1,5 @@
-### Hi there 👋
+### ✨
+just a CS major trying to push some pixels
 
 <!--
 **k3vnchen/k3vnchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
