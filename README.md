@@ -1,5 +1,5 @@
-✨ just trying to push some pixels ✨
+## Kevin Chen—@k3vnchen
 
-more at [kevinnchen.com](www.kevinnchen.com)
+✨ is just trying to push some pixels ✨
 
-developing at [the ypm](https://github.com/YPM-Informatics/)
+personal website at [kevinnchen.com](www.kevinnchen.com)
