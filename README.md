@@ -1,4 +1,4 @@
-# Kevin Chen—@k3vnchen
+# Kevin Chen
 
 ✨ is just trying to push some pixels ✨
 
