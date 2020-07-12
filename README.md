@@ -5,5 +5,3 @@
 personal website at [kevinnchen.com](https://www.kevinnchen.com)
 
 sometimes goes by @k3vnchen and sometimes @kevinnchen
-
-wants to refactor much more than code
