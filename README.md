@@ -1,6 +1,6 @@
 # Kevin Chen
 
-✨ is just trying to push some pixels ✨
+✨ welcomes you to his README.md ✨
 
 personal website at [kevinnchen.com](https://www.kevinnchen.com)
 
