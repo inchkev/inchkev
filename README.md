@@ -4,4 +4,4 @@
 
 personal website at [kevinnchen.com](https://www.kevinnchen.com)
 
-sometimes goes by @k3vnchen and sometimes @kevinnchen
+sometimes goes by @k3vnchen and sometimes @inchkev
