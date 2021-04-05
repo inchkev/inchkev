@@ -1,4 +1,4 @@
-## hello I am Kevin
+## kevin
 
 ✨ welcomes you to his README.md, have a look around ✨
 
