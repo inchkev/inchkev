@@ -1,3 +1,3 @@
 ✨ welcome to my github, have a look around ✨
 
-personal website at [kevinnchen.com](https://www.kevinnchen.com)
+also check out [kevinnchen.com](https://www.kevinnchen.com)
