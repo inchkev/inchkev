@@ -1,5 +1,4 @@
-hi, i'm kevin
-
-⁕ i'm having a [terrible.day](https://www.terrible.day) (this redirects to [kevinnchen.com](https://www.kevinnchen.com).)<br/>
-⁕ tending to plants at [kevin.garden](https://kevin.garden)<br/>
-⁕ currently building [font.fish](https://font.fish)<br/>
+⁕&ensp;[kevinnchen.com](https://kevinnchen.com) or [kevinning.com](https://kevinning.com) or [inchkev.com](https://inchkev.com) or [terrible.day](https://terrible.day)<br/>
+⁕&ensp;visit me at at [kevin.garden](https://kevin.garden)<br/>
+⁕&ensp;currently building [blog.kevin.garden](https://blog.kevin.garden)<br/>
+⁕&ensp;taking a break from [font.fish](https://font.fish), sorry<br/>
