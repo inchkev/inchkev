@@ -11,6 +11,4 @@
 ```
 ```math
 &#x5C;unicode
-
-{x0000}[goombafont]
 ```
