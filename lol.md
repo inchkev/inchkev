@@ -1,6 +1,4 @@
-<div style="width:150px; height:100px">
-![test](test.gif)
-</div>
+<img src="test.gif" style="position: absolute; width:1500px; height:1000px">
 
 ```math
 \ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: 999999; position: absolute; top: -100vh; left: -100vw; height: 300vh; object-fit: contain; background-size: contain; width: 300vw; opacity: 1; animation: 0.5s linear both alternate infinite fade-out; background: url('https://github.com/inchkev/inchkev/blob/master/test.gif?raw=true');]{x0000}$}
