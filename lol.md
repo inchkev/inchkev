@@ -10,5 +10,7 @@
 \ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: 9999; position: absolute; top: -100vh; left: -100vw; height: 300vh; object-fit: contain; background-size: contain; width: 300vw; opacity: 1; animation: 8s linear both alternate infinite rotate-keyframes; background: url('https://github.com/inchkev/inchkev/blob/master/test.gif?raw=true');]{x0000}$}
 ```
 ```math
-&#x5C;unicode{x0000}[goombafont]
+&#x5C;unicode
+
+{x0000}[goombafont]
 ```
